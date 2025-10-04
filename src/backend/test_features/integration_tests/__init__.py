@@ -1,1 +1,0 @@
-"""Integration tests for full system workflows."""
